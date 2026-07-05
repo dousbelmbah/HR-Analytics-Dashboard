@@ -1,6 +1,6 @@
 # 👥 HR Analytics Dashboard
 
-![Dashboard Preview](/hr%20dashboard%20analysis.png)
+![Dashboard Preview](images/hr-executive-dashboard.png)
 
 An interactive Power BI dashboard designed to analyze workforce data, monitor key HR metrics, evaluate employee demographics, and generate actionable insights to support strategic human resource decision-making.
 
@@ -132,19 +132,19 @@ HR-Analytics-Dashboard/
 
 ### Executive Dashboard
 
-![Executive Dashboard](hr%20dashboard%20analysis.png)
+![Executive Dashboard](images/hr-executive-dashboard.png)
 
 ---
 
 ### Workforce Analysis
 
-![Workforce Analysis](workforce%20dashboard.png)
+![Workforce Analysis](images/workforce-analysis.png)
 
 ---
 
 ### Employee Directory & HR Insights
 
-![Employee Directory & HR Insights](employee%20insights%20dashboard.png)
+![Employee Directory & HR Insights](images/employee-directory-insights.png)
 
 ---
 
