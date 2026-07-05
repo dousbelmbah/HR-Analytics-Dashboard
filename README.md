@@ -4,6 +4,14 @@
 
 An interactive Power BI dashboard built to analyze workforce data, monitor HR KPIs, evaluate employee demographics, and generate actionable insights that support strategic human resource decision-making.
 
+The dashboard is fully interactive and allows users to filter results by:
+
+- Gender
+- Job Title
+- Qualification
+- Hire Year
+
+All visuals respond dynamically to user selections.
 ---
 
 # 📌 Business Problem
@@ -19,6 +27,12 @@ This dashboard transforms raw HR data into an interactive reporting solution tha
 This project analyzes employee data to provide a comprehensive view of workforce composition, salary distribution, employee qualifications, hiring trends, and leave management.
 
 The dashboard is fully interactive and allows users to explore HR metrics using dynamic filters and visualizations.
+
+## ❓ Business Problem
+
+HR departments often struggle to gain a complete view of workforce performance, salary distribution, employee demographics, and leave management using raw spreadsheets.
+
+This dashboard transforms raw HR data into interactive visualizations, enabling decision-makers to quickly monitor workforce trends, identify areas requiring attention, and support strategic HR planning.
 
 ---
 
@@ -116,10 +130,10 @@ Provides employee-level reporting together with HR insights and recommendations.
 - The organization employs **161 employees**.
 - Female employees represent approximately **55%** of the workforce.
 - The average employee salary is **$54K**.
-- Product Managers earn the highest average salaries.
+- Product Managers earn the highest average salaries, indicating a concentration of compensation within leadership roles.
 - Bachelor's degree holders represent the largest employee group.
 - Workforce growth has steadily increased over the hiring period.
-- Packaging Associates record the highest average leave balance.
+- Packaging Associates record the highest average leave balance, suggesting an opportunity to investigate workload, scheduling, or leave management practices.
 
 ---
 
