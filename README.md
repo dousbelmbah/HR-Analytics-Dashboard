@@ -1,57 +1,79 @@
 # 👥 HR Analytics Dashboard
 
-![Dashboard Preview](images/HR%20dashboard%20analysis.png)
+![HR Analytics Dashboard](images/HR%20dashboard%20analysis.png)
 
-An interactive Power BI dashboard designed to analyze workforce data, monitor key HR metrics, evaluate employee demographics, and generate actionable insights to support strategic human resource decision-making.
-
----
-
-## 📌 Project Overview
-
-This project analyzes HR data to provide a comprehensive view of workforce performance, employee demographics, salary distribution, qualifications, hiring trends, and leave management. The dashboard enables HR professionals and business leaders to monitor workforce KPIs, identify trends, and make informed decisions through interactive visualizations.
+An interactive Power BI dashboard built to analyze workforce data, monitor HR KPIs, evaluate employee demographics, and generate actionable insights that support strategic human resource decision-making.
 
 ---
 
-## 🎯 Business Objectives
+# 📌 Business Problem
 
-- Monitor key workforce KPIs.
-- Analyze employee demographics and workforce composition.
-- Evaluate salary distribution across job roles and qualifications.
-- Track employee hiring trends over time.
-- Identify departments with high leave balances.
-- Explore workforce distribution by qualification and gender.
-- Support HR decision-making through interactive dashboards and business insights.
+HR departments often manage employee information across multiple spreadsheets, making it difficult to quickly monitor workforce performance, salary distribution, hiring trends, and leave balances.
+
+This dashboard transforms raw HR data into an interactive reporting solution that enables HR managers and business leaders to monitor key workforce metrics and make data-driven decisions.
 
 ---
 
-## 🛠️ Tools & Technologies
+# 📊 Project Overview
 
-- **Power BI Desktop**
-- **Power Query**
-- **DAX (Data Analysis Expressions)**
-- **Data Modeling**
-- **Data Visualization**
-- **Interactive Filtering**
-- **Business Intelligence**
+This project analyzes employee data to provide a comprehensive view of workforce composition, salary distribution, employee qualifications, hiring trends, and leave management.
+
+The dashboard is fully interactive and allows users to explore HR metrics using dynamic filters and visualizations.
 
 ---
 
-## 📊 Dashboard Pages
+# 🎯 Business Objectives
 
-### 1️⃣ Executive Dashboard
+- Monitor workforce KPIs
+- Analyze employee demographics
+- Evaluate salary distribution
+- Monitor workforce growth
+- Identify departments with high leave balances
+- Compare employee qualifications
+- Support strategic HR decision-making
 
-Provides a high-level overview of workforce performance using key HR KPIs and interactive visualizations.
+---
 
-#### KPIs
+# 🛠 Tools & Technologies
+
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Interactive Dashboards
+- Business Intelligence
+
+---
+
+# ✨ Dashboard Features
+
+- Interactive slicers
+- Dynamic KPI cards
+- Cross-filtering
+- Employee-level reporting
+- Executive dashboard
+- Workforce analysis
+- HR recommendations
+- Data storytelling
+
+---
+
+# 📊 Dashboard Pages
+
+## 1️⃣ Executive Dashboard
+
+Provides a high-level overview of workforce performance.
+
+### KPIs
 
 - Total Employees
 - Average Salary
-- Maximum Salary
 - Average Leave Balance
+- Maximum Salary
 - Female Employees
 - Male Employees
 
-#### Visualizations
+### Visualizations
 
 - Employee Age Distribution
 - Workforce Growth Over Time
@@ -61,127 +83,165 @@ Provides a high-level overview of workforce performance using key HR KPIs and in
 
 ---
 
-### 2️⃣ Workforce Analysis
+## 2️⃣ Workforce Analysis
 
-Provides deeper analysis of workforce structure, salaries, and employee qualifications.
+Provides deeper insights into workforce structure, salaries, and qualifications.
 
-#### Visualizations
+### Visualizations
 
 - Salary by Qualification (Scatter Plot)
 - Employee Distribution by Qualification
 - Top 10 Highest Paid Employees
 - Average Salary by Job Title
-- Employee Breakdown Analysis (Decomposition Tree)
+- Employee Breakdown (Decomposition Tree)
 
 ---
 
-### 3️⃣ Employee Directory & HR Insights
+## 3️⃣ Employee Directory & HR Insights
 
-Provides employee-level analysis and HR recommendations.
+Provides employee-level reporting together with HR insights and recommendations.
 
-#### Visualizations
+### Visualizations
 
 - Employee Directory
 - Average Leave Balance by Job Title
-- Total Employees by Qualification
-- HR Insights
+- Employee Qualification Distribution
+- HR Key Insights
 - Business Recommendations
 
 ---
 
-## 📈 Key Insights
+# 📈 Key Insights
 
-- The organization employs **161** staff members.
-- Female employees make up approximately **55%** of the workforce.
+- The organization employs **161 employees**.
+- Female employees represent approximately **55%** of the workforce.
 - The average employee salary is **$54K**.
-- Product Managers receive the highest average salaries.
-- Bachelor's degree holders represent the largest qualification group.
-- Workforce growth has remained steady over the hiring period.
-- Packaging Associates have the highest average leave balance.
+- Product Managers earn the highest average salaries.
+- Bachelor's degree holders represent the largest employee group.
+- Workforce growth has steadily increased over the hiring period.
+- Packaging Associates record the highest average leave balance.
 
 ---
 
-## 💡 Business Recommendations
+# 💡 Business Recommendations
 
 - Monitor departments with consistently high leave balances.
 - Promote salary equity across similar job roles.
 - Strengthen employee retention initiatives.
-- Use workforce growth trends to support future hiring plans.
-- Continue promoting workforce diversity and inclusion.
+- Continue monitoring workforce diversity.
+- Use workforce growth trends to support hiring plans.
 
 ---
 
-## 📂 Repository Structure
+# 📷 Dashboard Preview
 
-```text
-HR-Analytics-Dashboard/
-│
-├── README.md
-├── HR Analytics Dashboard.pbix
-├── HR_Dataset.xlsx
-│
-└── images/
-    ├── hr-executive-dashboard.png
-    ├── workforce-analysis.png
-    └── employee-directory-insights.png
-```
-
----
-
-## 📷 Dashboard Preview
-
-### Executive Dashboard
+## Executive Dashboard
 
 ![Executive Dashboard](images/HR%20dashboard%20analysis.png)
 
 ---
 
-### Workforce Analysis
+## Workforce Analysis
 
 ![Workforce Analysis](images/workforce%20dashboard.png)
 
 ---
 
-### Employee Directory & HR Insights
+## Employee Directory & HR Insights
 
-![Employee Directory & HR Insights](images/employee%20insights%20dashboard.png)
+![Employee Directory](images/employee%20insights%20dashboard.png)
 
 ---
 
-## 📊 Skills Demonstrated
+# 📊 Skills Demonstrated
+
+### Data Preparation
 
 - Data Cleaning
+- Power Query
 - Data Transformation
-- Data Modeling
+
+### Data Modeling
+
+- Relationships
 - DAX Measures
+- Calculated Columns
 - KPI Development
-- HR Analytics
-- Workforce Analysis
-- Salary Analysis
-- Interactive Dashboard Design
+
+### Data Visualization
+
+- Interactive Dashboards
+- Executive Reporting
+- Scatter Plot Analysis
 - Decomposition Tree
-- Business Intelligence
+- KPI Cards
+
+### Business Analytics
+
+- HR Analytics
+- Salary Analysis
+- Workforce Analysis
+- Employee Demographics
 - Data Storytelling
-- Business Insights & Recommendations
 
 ---
 
-## 📚 Dataset
+# 📂 Repository Structure
 
-This project uses a sample HR dataset for educational and portfolio purposes. The dataset includes employee demographics, salaries, qualifications, job titles, leave balances, and hiring dates.
-
-> **Note:** Some employee names may appear multiple times due to the structure of the sample dataset and are not necessarily duplicate records.
+```text
+HR-Analytics-Dashboard/
+│
+├── HR Analytics Dashboard.pbix
+├── HR_Dataset.xlsx
+├── README.md
+│
+└── images/
+    ├── HR dashboard analysis.png
+    ├── workforce dashboard.png
+    └── employee insights dashboard.png
+```
 
 ---
 
-## 👨‍💻 About Me
+# 📚 Dataset
 
-I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I enjoy building interactive dashboards, analyzing business performance, and solving real-world problems using Excel, SQL, Power BI, and Python.
+This project uses a sample HR dataset for educational and portfolio purposes.
 
-### 📫 Connect with Me
+The dataset includes:
 
-- **LinkedIn:** https://www.linkedin.com/in/dousbel-mbah
-- **GitHub:** https://github.com/dousbel-mbah
+- Employee demographics
+- Job titles
+- Qualifications
+- Salaries
+- Leave balances
+- Hiring dates
+
+> **Note:** Some employee names appear more than once because the sample dataset contains repeated records for learning purposes.
+
+---
+
+# 🚀 Future Improvements
+
+- Employee turnover analysis
+- Attrition dashboard
+- Diversity KPIs
+- Department performance analysis
+- Salary forecasting
+- HR scorecards
+
+---
+
+# 👨‍💻 About Me
+
+I am a Data Analyst passionate about transforming raw data into meaningful insights that support business decision-making. I enjoy building interactive dashboards, analyzing business performance, and solving real-world problems using **Excel, SQL, Power BI, and Python**.
+
+## 📫 Connect with Me
+
+**LinkedIn**  
+https://www.linkedin.com/in/dousbel-mbah
+
+**GitHub**  
+https://github.com/dousbel-mbah
 
 ---
 
