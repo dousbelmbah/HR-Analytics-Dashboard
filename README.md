@@ -143,13 +143,13 @@ Provides employee-level reporting together with HR insights and recommendations.
 
 ## Workforce Analysis
 
-![Workforce Analysis](images/workforce%20dashboard.png)
+![Workforce Analysis](images/Workforce%20dashboard.png)
 
 ---
 
 ## Employee Directory & HR Insights
 
-![Employee Directory](images/employee%20insights%20dashboard.png)
+![Employee Directory](images/Employee%20insights%20dashboard.png)
 
 ---
 
